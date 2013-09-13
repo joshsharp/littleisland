@@ -1,0 +1,4 @@
+*.psd
+bin/
+.idea/
+private/
